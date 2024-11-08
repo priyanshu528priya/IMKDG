@@ -65,7 +65,7 @@ Knowledge Triples: {kt}
     
 
 import csv
-csv_file_path = '/home/hardik/BTP/Projects/Research Project/meddialog-response.csv'
+csv_file_path = 'meddialog-response.csv'
 
 
 # Open the file in read mode
